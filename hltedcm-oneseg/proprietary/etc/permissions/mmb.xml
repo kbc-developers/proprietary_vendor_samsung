@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <!-- [Tmm] Build Setting -S- -->
+    <library name="mmb.android.MmbFcBrowMw" file="/system/framework/MmbFcBrowMw.jar" />
+    <library name="mmb.android.MmbFcContMw" file="/system/framework/MmbFcContMw.jar" />
+    <library name="mmb.android.MmbFcIndivdMw" file="/system/framework/MmbFcIndivdMw.jar" />
+    <library name="mmb.android.MmbFcMfestMw" file="/system/framework/MmbFcMfestMw.jar" />
+    <library name="mmb.android.MmbFcMp4Mw" file="/system/framework/MmbFcMp4Mw.jar" />
+    <library name="mmb.android.MmbFcPgInfoMw" file="/system/framework/MmbFcPgInfoMw.jar" />
+    <library name="mmb.android.MmbMoInfoMw" file="/system/framework/MmbMoInfoMw.jar" />
+    <library name="mmb.android.MmbScSecClkMw" file="/system/framework/MmbScSecClkMw.jar" />
+    <library name="mmb.android.MmbSeMngMw" file="/system/framework/MmbSeMngMw.jar" />
+    <library name="mmb.android.MmbStBmlMw" file="/system/framework/MmbStBmlMw.jar" />
+    <library name="mmb.android.MmbStCtlMw" file="/system/framework/MmbStCtlMw.jar" />
+    <library name="mmb.android.MmbStRecMw" file="/system/framework/MmbStRecMw.jar" />
+    <library name="mmb.android.MmbStRecCmMw" file="/system/framework/MmbStRecCmMw.jar" />
+    <library name="com.nttdocomo.mmb.android.mmbsv.library" file="/system/framework/MmbServiceLibrary.jar" />
+    <library name="com.nttdocomo.mmb.android.mmbsv.porting" file="/system/framework/MmbPoServiceSp.jar" />
+    <!-- Tmm-Support JB4thMR2 Beta Start -->
+    <permission name="com.nttdocomo.mmb.android.permission.TMM_PF">
+      <group gid="mmb" />
+    </permission>
+    <permission name="com.nttdocomo.mmb.android.permission.TMM_UI">
+      <group gid="mmb" />
+    </permission>
+    <!-- Tmm-Support JB4thMR2 Beta End -->
+    <!-- [Tmm] Build Setting -E- -->
+
+</permissions>
