@@ -34,9 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hltetmo/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so \
     vendor/samsung/hltetmo/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/samsung/hltetmo/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
-    vendor/samsung/hltetmo/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
-    vendor/samsung/hltetmo/proprietary/vendor/firmware/libpn547_fw_pku.so:system/vendor/firmware/libpn547_fw_pku.so \
-    vendor/samsung/hltetmo/proprietary/vendor/firmware/libpn547_fw_platform.so:system/vendor/firmware/libpn547_fw_platform.so \
     vendor/samsung/hltetmo/proprietary/bin/efsks:system/bin/efsks \
     vendor/samsung/hltetmo/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/samsung/hltetmo/proprietary/bin/ks:system/bin/ks \

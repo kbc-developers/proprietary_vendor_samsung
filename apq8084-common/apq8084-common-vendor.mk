@@ -26,12 +26,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/apq8084-common/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/samsung/apq8084-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/samsung/apq8084-common/proprietary/bin/mpdecision:system/bin/mpdecision \
-    vendor/samsung/apq8084-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/apq8084-common/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/apq8084-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/apq8084-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/apq8084-common/proprietary/bin/radish:system/bin/radish \
-    vendor/samsung/apq8084-common/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/apq8084-common/proprietary/bin/sensorhubservice:system/bin/sensorhubservice \
     vendor/samsung/apq8084-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/apq8084-common/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
@@ -210,11 +208,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/apq8084-common/proprietary/lib/libprotobuf-cpp-full.so:system/lib/libprotobuf-cpp-full.so \
     vendor/samsung/apq8084-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/samsung/apq8084-common/proprietary/lib/libqomx_jpegenc.so:system/lib/libqomx_jpegenc.so \
-    vendor/samsung/apq8084-common/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/apq8084-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/apq8084-common/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/apq8084-common/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
-    vendor/samsung/apq8084-common/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/apq8084-common/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
     vendor/samsung/apq8084-common/proprietary/lib/libsensorhubservice.so:system/lib/libsensorhubservice.so \
     vendor/samsung/apq8084-common/proprietary/lib/libssaudio-client.so:system/lib/libssaudio-client.so \
@@ -374,7 +368,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/apq8084-common/proprietary/vendor/lib/libmmcamera_s5k8b1yx.so:system/vendor/lib/libmmcamera_s5k8b1yx.so \
     vendor/samsung/apq8084-common/proprietary/vendor/lib/libmmcamera_vpu_module.so:system/vendor/lib/libmmcamera_vpu_module.so \
     vendor/samsung/apq8084-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
-    vendor/samsung/apq8084-common/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/samsung/apq8084-common/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/samsung/apq8084-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/samsung/apq8084-common/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
