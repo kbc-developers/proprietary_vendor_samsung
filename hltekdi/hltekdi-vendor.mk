@@ -16,4 +16,5 @@
 
 # Pick up overlay for features that depend on non-open-source files
 
-$(call inherit-product, vendor/samsung/hltekdi/hltekdi-vendor-blobs.mk)
+PRODUCT_COPY_FILES += \
+    vendor/samsung/hltekdi/proprietary/vendor/lib/libsec-ril.kdi.so:system/vendor/lib/libsec-ril.kdi.so
