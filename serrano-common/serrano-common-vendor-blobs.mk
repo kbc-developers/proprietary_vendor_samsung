@@ -46,7 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/serrano-common/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/samsung/serrano-common/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/samsung/serrano-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
-    vendor/samsung/serrano-common/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/serrano-common/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/serrano-common/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/samsung/serrano-common/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
@@ -70,7 +69,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/serrano-common/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/samsung/serrano-common/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so \
     vendor/samsung/serrano-common/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
-    vendor/samsung/serrano-common/proprietary/vendor/lib/sensors.vendor.msm8960.so:system/vendor/lib/sensors.vendor.msm8960.so \
+    vendor/samsung/serrano-common/proprietary/vendor/lib/libsensors.so:system/vendor/lib/libsensors.so \
     vendor/samsung/serrano-common/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/samsung/serrano-common/proprietary/vendor/lib/hw/camera.vendor.msm8960.so:system/vendor/lib/hw/camera.vendor.msm8960.so \
     vendor/samsung/serrano-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
