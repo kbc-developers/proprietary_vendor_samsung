@@ -18,4 +18,4 @@
 # Pick up overlay for features that depend on non-open-source files
 
 PRODUCT_COPY_FILES += \
-    vendor/samsung/kltdcmactive/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so
+    vendor/samsung/kltedcmactive/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so
